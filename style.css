@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
 
+
 * {
   margin: 0;
   padding: 0;
@@ -231,6 +232,7 @@ form.sign-in-form {
   transform: translateX(800px);
 }
 
+
 /* ANIMATION */
 
 .container.sign-up-mode:before {
@@ -373,6 +375,7 @@ form.sign-in-form {
   }
 }
 
+
 @media (max-width: 570px) {
   form {
     padding: 0 1.5rem;
@@ -398,6 +401,7 @@ form.sign-in-form {
     left: 50%;
   }
 }
+
 #pre{
   background: black url(img/preview.gif) no-repeat center;
   background-size: 20%;
