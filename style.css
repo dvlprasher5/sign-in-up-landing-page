@@ -151,6 +151,7 @@ form.sign-in-form {
 .btn:hover {
   background-color: #4d84e2;
 }
+
 .panels-container {
   position: absolute;
   height: 100%;
@@ -233,7 +234,7 @@ form.sign-in-form {
 }
 
 
-/* ANIMATION Starts from here */
+/* ANIMATION Starts from Here */
 
 .container.sign-up-mode:before {
   transform: translate(100%, -50%);
