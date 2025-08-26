@@ -233,7 +233,7 @@ form.sign-in-form {
 }
 
 
-/* ANIMATION */
+/* ANIMATION Starts from here */
 
 .container.sign-up-mode:before {
   transform: translate(100%, -50%);
@@ -403,7 +403,7 @@ form.sign-in-form {
 }
 
 #pre{
-  background: black url(img/preview.gif) no-repeat center;
+  background: rgb(0, 0, 0) url(img/preview.gif) no-repeat center;
   background-size: 20%;
   width:100% ;
   height: 100vh;
